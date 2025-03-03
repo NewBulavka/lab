@@ -7,6 +7,7 @@ int main() {
     int y = 5;
     cout << add(x, y) << "\n";
     cout << subtract(x, y) << "\n";
+    cout << multiply(x, y);
     return 0;
 }
 
